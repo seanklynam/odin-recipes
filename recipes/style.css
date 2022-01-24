@@ -1,0 +1,33 @@
+/* style.css */
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 166, 172);
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 166, 172);
+    text-align: left;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 166, 172);
+    text-align: left;
+}
+
+ul {
+    background-color: cornsilk;
+    color: rgb(9, 10, 9);
+}
+
+ol {
+    background-color: rgb(221, 221, 221);
+    color: rgb(9, 10, 9);
+}
+
+.regular {
+    width: 300px;
+    height: auto;
+}
